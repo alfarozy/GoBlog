@@ -103,10 +103,7 @@
                                     src="https://www.youtube.com/embed/{{ $video->code_video }}?iv_load_policy=3&modestbranding=0&autoplay=1&controls=0&rel=0&showinfo=0&wmode=opaque&branding=0&autohide=0&loop=1&rel=0&enablejsapi=1&origin=https%3A%2F%2Fhub.youth.gov.ae&widgetid=1"
                                    frameborder="0"></iframe>
                         </div>
-                    {{-- <img width="100%" class="img-single-article rounded my-3 img-fluid" src="/storage/{{ $video->img }}" alt="Img {{ $video->title }}"> --}}
-                    {{-- <iframe src="https://www.youtube.com/watch?v={{ $video->code_video }}?autoplay=1"
-                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""
-                        width="100%" height="450" frameborder="0">0</iframe> --}}
+                   
                     <h2>{{ $video->title }}</h2>
                     <p class="text-muted">{{ $video->views }} x ditonton</p>
                     <hr>
