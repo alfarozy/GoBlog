@@ -25,10 +25,6 @@
             <li class="nav-item{{ request()->is('contact') ? ' active' : '' }}">
                 <a class="nav-link" href="/contact">Contact</a>
             </li>
-            <li class="nav-item">
-                <a class="btn btn-md btn-outline-info" href="#"> <i class="fas fa-cloud-download-alt"></i> Download
-                    Sourcecode</a>
-            </li>
         </ul>
         <!-- Right Side Of Navbar -->
         <ul class="navbar-nav ml-auto">

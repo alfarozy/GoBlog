@@ -13,13 +13,15 @@
            <p>Kami adalah sebuah platform yang menyediakan artikel dan video tutorial seputar dunia pemograman.</p>
           <b>Kami hadir untuk menambah wawasan sobat gobloger</b>
           <p class="mt-4" >-GoRead-</p>
+          <a class="btn btn-md btn-outline-secondary" href="https://github.com/alfarozy/GoBlog"> <i class="fab fa-github"></i> 
+            Sourcecode</a>
           </div>
         </div>
       </div>
       <h3 class="mt-5 mb-3" >Dikembangkan Oleh</h3>
        <a href="http://alfarozy.id" target="_blank" rel="noopener noreferrer"> <img width="300px" src="{{ asset('/img/alfarozy.id-black.png') }}" alt="" srcset=""></a>
           <br>
-          <a href="https://alfarozy.id/link/jointeam">Logo Kalian disini</a>
+          <a href="https://alfarozy.id/">Logo Kalian disini</a>
           <div class="desc row justify-content-center my-2 mt-5">
             <div class="col-lg-5 bg-light rounded p-3 text-center">
                 <p>Semua konten dan <i>Source Code</i> di <b>Alfarozy.id</b> gratis/Open
