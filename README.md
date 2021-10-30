@@ -14,7 +14,7 @@ GoBlog Simple Blog CMS (Content Management System), menggunakan framework larave
 - Goto browser `http://localhost:8000`, you should see the app.
 
 
-#### Website
+#### Dev by me
 - Website: [Alfarozy.id](https://alfarozy.id)
 - Email  : [mr.alfarozy.a.n@gmail.com](mailto:mr.alfarozy.a.n@gmail.com)
 - Fb : [Alfarozy AN](https://www.facebook.com/Alfarozy.A.n/)
